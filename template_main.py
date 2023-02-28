@@ -19,7 +19,7 @@ if __name__ == '__main__':
         importlib.import_module(module)
 
     # TODO import the app
-    from maya_app import *
+    import maya_app
 
     # TODO rename app variable
     maya_app.run()
