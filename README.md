@@ -11,7 +11,7 @@ You must specify the correct path of the installation folder in the ```template_
 ```python
 if __name__ == '__main__':
     # TODO specify the right path
-    install_dir = 'PATH/TO/template_tool'
+    install_dir = 'PATH/TO/template_noui'
     # [...]
 ```
 
